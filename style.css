@@ -1,0 +1,78 @@
+html {
+    background-color: #F7F7F7;
+    text-align: center;
+    font-family: 'Cutive Mono', monospace;
+    margin-top: 30px;
+}
+h1 {
+    margin-bottom: 50px;
+}
+b {
+    color: #FF5165;
+}
+img {
+    display: block;
+    margin: 0 auto;
+    width: 500px;
+}
+hr {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 550px;
+}
+#new-quote {
+    font-family: 'Cutive Mono', monospace;
+    font-size: 26px;
+    font-weight: 700;
+    background-color: #FF5165;
+    color: #F7F7F7;
+    width: 120px;
+    height: 45px;
+    line-height: 45px;
+    border-radius: 25px;
+    display: block;
+    margin: 0 auto;
+    border: 1px solid #F7F7F7;
+    transition: 0.5s;
+    cursor: pointer;
+    margin-bottom: 40px;
+    margin-top: 30px;
+}
+#new-quote:hover {
+	background-color: #F7F7F7;
+    color: #FF5165;
+    border: 1px solid #FF5165;
+}
+#new-quote:focus {
+	outline: 0;
+}
+#quote {
+	font-family: 'Passion One', cursive;
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+#author {
+	color: #A2A2A2;
+    font-size: 20px;
+    font-weight: 400;
+    font-style: italic;
+    font-family: 'Passion One', cursive;
+}
+#twitter-share {
+	display: block;
+    background-color: #1da1f2;
+    color: #fff;
+    width: 140px;
+    height: 50px;
+    border-radius: 5px;
+    font-size: 20px;
+    line-height: 50px;
+    border: 1px solid #1da1f2;
+    transition: 0.5s;
+    cursor: pointer;
+    margin: 0 auto;
+}
+#twitter-share:hover {
+	background-color: #fff;
+    color: #1da1f2;
+}
