@@ -8,12 +8,13 @@ h1 {
     margin-bottom: 50px;
 }
 b {
+    font-size: 50px;
     color: #FF5165;
 }
 img {
     display: block;
     margin: 0 auto;
-    width: 500px;
+    width: 700px;
 }
 hr {
     margin-top: 50px;
